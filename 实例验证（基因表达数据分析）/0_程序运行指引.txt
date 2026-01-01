@@ -1,0 +1,12 @@
+简要说明
+
+代码运行顺序：
+1. 运行 01_extract_and_convert.R      （生成 cns_ensembl_ids_final.txt）
+2. 运行 02_preprocess_brain_data.R    （生成 transfer_learning_brain_data_fixed.rds）
+3. 运行 03_main_analysis_chapter4 - MSEloss.R   （生成全部表格与图形）
+
+trans_lasso方法的结果在results中，QR改进的系列方法结果在results_QR中
+
+前缀为Brain的BED类型文件为下载自GTEX官网的标准化基因表达量数据，可用excel软件直接打开
+
+
