@@ -7,9 +7,12 @@
 
 trans_lasso方法的结果在results中，QR改进的系列方法结果在results_QR中
 
-数据集下载方式：通过网盘分享的文件：实验验证数据
+数据集下载方式：
+通过网盘分享的文件：实验验证数据
 链接: https://pan.baidu.com/s/1CMuLcis88mcAFnxUecdFKQ?pwd=8h1x 提取码: 8h1x
 前缀为Brain的BED类型文件为下载自GTEX官网的标准化基因表达量数据，可用excel软件直接打开
 
+注：代码01和02的功能是对于原始数据进行转化和筛选。文件transfer_learning_brain_data_fixed.rds是对
+原始数据转化和筛选的结果。如果原始数据下载困难，直接下载该转化后文件+运行03，也可得到同样结果(^-^).
 
 
