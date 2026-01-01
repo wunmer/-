@@ -1,0 +1,548 @@
+Genes for module 137
+LocusLink	Name	P-value	Description
+6857	SYT1	<1e-14	synaptotagmin I.P65; SYT; SVP65.synaptotagmin I.
+50649	ARHGEF4	<1e-14	Rho guanine nucleotide exchange factor (GEF) 4.ASEF; GEF4; STM6; KIAA1112; DKFZp434G2016.Rho guanine nucleotide exchange factor 4 isoform b.
+2571	GAD1	<1e-14	glutamate decarboxylase 1 (brain, 67kDa).GAD; GAD25; GAD67.glutamate decarboxylase 1 isoform GAD67.
+333	APLP1	<1e-14	amyloid beta (A4) precursor-like protein 1.APLP.amyloid beta (A4) precursor-like protein 1.
+7108	TM7SF2	<1e-14	transmembrane 7 superfamily member 2.ANG1.transmembrane 7 superfamily member 2.
+23532	PRAME	<1e-14	preferentially expressed antigen in melanoma.MAPE; OIP4.preferentially expressed antigen in melanoma.
+11156	PTP4A3	<1e-14	protein tyrosine phosphatase type IVA, member 3.PRL3; PRL-3; PRL-R.protein tyrosine phosphatase type IVA, member 3 isoform 2.
+3872	KRT17	<1e-14	keratin 17.PC; K17; PC2; PCHC1.keratin 17.
+4023	LPL	<1e-14	lipoprotein lipase.LIPD.lipoprotein lipase precursor.
+3360	HTR4	<1e-14	5
+9378	NRXN1	<1e-14	neurexin 1.Hs.22998; KIAA0578.neurexin 1 isoform beta precursor.
+4900	NRGN	<1e-14	neurogranin (protein kinase C substrate, RC3).RC3; hng.neurogranin.
+7018	TF	<1e-14	transferrin.PRO1557.transferrin.
+5545	PRB4	<1e-14	proline-rich protein BstNI subfamily 4.Po.proline-rich protein BstNI subfamily 4 precursor.
+6422	SFRP1	<1e-14	secreted frizzled-related protein 1.FRP; FRP1; FrzA; FRP-1; SARP2.secreted frizzled-related protein 1.
+347	APOD	<1e-14	apolipoprotein D..apolipoprotein D precursor.
+10962		<1e-14	AF1Q protein.
+1114	CHGB	<1e-14	chromogranin B (secretogranin 1).SCG1.chromogranin B precursor.
+4137	MAPT	<1e-14	microtubule-associated protein tau.TAU; MSTD; PPND; DDPAC; MAPTL; MTBT1; MTBT2; FTDP-17; FLJ31424.microtubule-associated protein tau isoform 4.
+5764	PTN	<1e-14	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1).HARP; HBNF; HBGF8; NEGF1.pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1).
+9071	CLDN10	<1e-14	claudin 10.OSP-L; CPETRL3.claudin 10 isoform b.
+5274	SERPINI1	<1e-14	serine (or cysteine) proteinase inhibitor, clade I (neuroserpin), member 1.PI12; neuroserpin.serine (or cysteine) proteinase inhibitor, clade I (neuroserpin), member 1.
+7060	THBS4	<1e-14	thrombospondin 4.TSP4.thrombospondin 4 precursor.
+4192	MDK	<1e-14	midkine (neurite growth-promoting factor 2).NEGF2.midkine (neurite growth-promoting factor 2).
+1443	CSH2	<1e-14	chorionic somatomammotropin hormone 2.CSB.chorionic somatomammotropin hormone 2 isoform 4.
+9254	CACNA2D2	<1e-14	calcium channel, voltage-dependent, alpha 2delta subunit 2.CACNA2D; gene 26; KIAA0558.calcium channel, voltage-dependent, alpha 2delta subunit 2.
+22885		<1e-14	KIAA0843 protein.
+10368	CACNG3	<1e-14	calcium channel, voltage-dependent, gamma subunit 3..voltage-dependent calcium channel gamma-3 subunit.
+5138	PDE2A	<1e-14	phosphodiesterase 2A, cGMP-stimulated..phosphodiesterase 2A, cGMP-stimulated.
+1809	DPYSL3	<1e-14	dihydropyrimidinase-like 3.DRP3; ULIP; CRMP4; DRP-3; CRMP-4.dihydropyrimidinase-like 3.
+23542	MAPK8IP2	<1e-14	mitogen-activated protein kinase 8 interacting protein 2.IB2; JIP2; PRKM8IPL.mitogen-activated protein kinase 8 interacting protein 2 isoform 3.
+10231	DSCR1L1	<1e-14	Down syndrome critical region gene 1-like 1.CSP2; MCIP2; ZAKI-4.Down syndrome critical region gene 1-like 1 protein.Induced by triiodothyronine (T3)|Proteome
+6192	RPS4Y	<1e-14	ribosomal protein S4, Y-linked.RPS4Y1.ribosomal protein S4, Y-linked Y isoform.
+9201	DCAMKL1	<1e-14	doublecortin and CaM kinase-like 1.DCLK; KIAA0369..
+9806	SPOCK2	<1e-14	sparcosteonectin, cwcv and kazal-like domains proteoglycan (testican) 2.KIAA0275; testican-2.sparcosteonectin, cwcv and kazal-like domains proteoglycan (testican) 2.
+1381	CRABP1	<1e-14	cellular retinoic acid binding protein 1.RBP5; CRABP; CRABPI; CRABP-I.cellular retinoic acid binding protein 1.
+2180	FACL2	<1e-14	fatty-acid-Coenzyme A ligase, long-chain 2.ACS1; LACS; FACL1; LACS1; LACS2.long-chain fatty-acid-Coenzyme A ligase 2.
+2261	FGFR3	<1e-14	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism).ACH; CEK2; JTK4; HSFGFR3EX.fibroblast growth factor receptor 3 isoform 2 precursor.
+6695	SPOCK	<1e-14	sparcosteonectin, cwcv and kazal-like domains proteoglycan (testican).TIC1; SPOCK1; TESTICAN.sparcosteonectin, cwcv and kazal-like domains proteoglycan precursor.
+2628	GATM	<1e-14	glycine amidinotransferase (L-arginine:glycine amidinotransferase).AGAT.glycine amidinotransferase (L-arginine:glycine amidinotransferase).
+6804	STX1A	<1e-14	syntaxin 1A (brain).STX1; HPC-1; p35-1.syntaxin 1A (brain).
+2944	GSTM1	<1e-14	glutathione S-transferase M1.MU; H-B; GST1; GTH4; GTM1; MU-1; GSTM1-1; MGC26563; GSTM1a-1a; GSTM1b-1b.glutathione S-transferase M1 isoform 2.
+3434	IFIT1	<1e-14	interferon-induced protein with tetratricopeptide repeats 1.G10P1; IFI56; IFI-56; IFNAI1; RNM561; GARG-16.interferon-induced protein with tetratricopeptide repeats 1.
+7067	THRA	<1e-14	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian).AR7; EAR7; ERBA; ERBA1; NR1A1; THRA1; THRA2; THRA3; EAR-7.1; EAR-7.2; ERB-T-1; MGC43240; c-ERBA-1; MGC000261; ERBA-ALPHA; TR-ALPHA-1; c-ERBA-ALPHA-2.thyroid hormone receptor, alpha isoform 2.
+6000	RGS7	<1e-14	regulator of G-protein signalling 7..regulator of G-protein signalling 7.
+358	AQP1	<1e-14	aquaporin 1 (channel-forming integral protein, 28kDa).CO; CHIP28; AQP-CHIP; MGC26324.aquaporin 1.
+5348	FXYD1	<1e-14	FXYD domain containing ion transport regulator 1 (phospholemman).PLM; MGC44983.phospholemman precursor.
+3625	INHBB	<1e-14	inhibin, beta B (activin AB beta polypeptide)..inhibin beta B subunit precursor.
+5364	PLXNB1	<1e-14	plexin B1.SEP; PLXN5; KIAA0407; PLEXIN-B1..Plexin 5; involved in mediating cell guidance; member of the plexin family of semaphorin receptors|Proteome
+23089	PEG10	<1e-14	paternally expressed 10.Edr; HB-1; MEF3L; KIAA1051.paternally expressed 10.
+23136	EPB41L3	<1e-14	erythrocyte membrane protein band 4.1-like 3.4.1B; DAL1; DAL-1; KIAA0987.erythrocyte membrane protein band 4.1-like 3.
+22905	EPN2	<1e-14	epsin 2.EHB21; KIAA1065.epsin 2 isoform b.
+5121	PCP4	<1e-14	Purkinje cell protein 4.PEP-19.Purkinje cell protein 4.
+1400	CRMP1	<1e-14	collapsin response mediator protein 1.DRP1; DRP-1; DPYSL1.collapsin response mediator protein 1.
+1363	CPE	<1e-14	carboxypeptidase E..carboxypeptidase E precursor.
+5080	PAX6	<1e-14	paired box gene 6 (aniridia, keratitis).AN; AN2; MGDA; WAGR; D11S812E.paired box gene 6 isoform b.
+2350	FOLR2	<1e-14	folate receptor 2 (fetal).FR-P3; FR-beta; FBPPL-1; beta-hFR.folate receptor 2 precursor.
+4212	MEIS2	<1e-14	Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse).MRG1; MGC2820.homeobox protein Meis2 isoform h.
+5003	SLC22A1LS	<1e-14	solute carrier family 22 (organic cation transporter), member 1-like antisense.BWR1B; BWSCR1B; ORCTL2S; p27-BWR1B.solute carrier family 22 (organic cation transporter), member 1-like antisense.
+8781	PSPHL	<1e-14	phosphoserine phosphatase-like.CO9..
+4062	LY6H	<1e-14	lymphocyte antigen 6 complex, locus H.NMLY6.lymphocyte antigen 6 complex, locus H.
+5156	PDGFRA	<1e-14	platelet-derived growth factor receptor, alpha polypeptide.CD140A; PDGFR2.platelet-derived growth factor receptor alpha precursor.
+1641	DCX	<1e-14	doublecortex; lissencephaly, X-linked (doublecortin).DC; DBCN; LISX; SCLH; XLIS.doublecortin isoform c.
+2786	GNG4	<1e-14	guanine nucleotide binding protein (G protein), gamma 4..guanine nucleotide binding protein (G protein), gamma 4.
+2562	GABRB3	<1e-14	gamma-aminobutyric acid (GABA) A receptor, beta 3.MGC9051.gamma-aminobutyric acid (GABA) A receptor, beta 3 isoform 2 precursor.
+2281	FKBP1B	<1e-14	FK506 binding protein 1B, 12.6 kDa.OTK4; FKBP9; FKBP1L; PKBP1L; PPIase; FKBP12.6.FK506-binding protein 1B isoform b.
+1000	CDH2	<1e-14	cadherin 2, type 1, N-cadherin (neuronal).CDHN; NCAD.cadherin 2, type 1 preproprotein.
+9892	SNAP91	<1e-14	synaptosomal-associated protein, 91kDa homolog (mouse).AP180; KIAA0656.synaptosomal-associated protein, 91kDa homolog.
+7485	WRB	<1e-14	tryptophan rich basic protein.CHD5.tryptophan rich basic protein.
+56340		<1e-14	
+2353	FOS	<1e-14	v-fos FBJ murine osteosarcoma viral oncogene homolog..v-fos FBJ murine osteosarcoma viral oncogene homolog.
+23335	WDR7	<1e-14	WD repeat domain 7.TRAG; KIAA0541.WD repeat domain 7 protein isoform 2.
+1159	CKMT1	<1e-14	creatine kinase, mitochondrial 1 (ubiquitous).CKMT; UMTCK.ubiquitous mitochondrial creatine kinase precursor.
+2574	GAGE2	<1e-14	G antigen 2..G antigen 2.
+7226	TRPM2	<1e-14	transient receptor potential cation channel, subfamily M, member 2.KNP3; EREG1; TRPC7; LTRPC2.transient receptor potential cation channel, subfamily M, member 2.
+5645	PRSS2	<1e-14	protease, serine, 2 (trypsin 2).TRY2; TRY8; TRYP2.protease, serine, 2 preproprotein.
+83988	NCALD	<1e-14	neurocalcin delta..neurocalcin delta.
+4143	MAT1A	<1e-14	methionine adenosyltransferase I, alpha.MAT; SAMS; MATA1; SAMS1.methionine adenosyltransferase I, alpha.
+1346	COX7A1	<1e-14	cytochrome c oxidase subunit VIIa polypeptide 1 (muscle).COX7A; COX7AH; COX7AM.cytochrome c oxidase subunit VIIa polypeptide 1 (muscle) precursor.
+1428	CRYM	<1e-14	crystallin, mu.THBP; DFNA40.crystallin, mu.
+10974		<1e-14	adipose specific 2.
+29114		<1e-14	NP22.neuronal protein.
+718	C3	<1e-14	complement component 3.ASP.complement component 3 precursor.
+770	CA11	<1e-14	carbonic anhydrase XI.CARP2; CA-RP XI.carbonic anhydrase XI precursor.
+6035	RNASE1	<1e-14	ribonuclease, RNase A family, 1 (pancreatic).RIB1; RNS1; MGC12408.pancreatic ribonuclease precursor.
+4852	NPY	<1e-14	neuropeptide Y..neuropeptide Y.
+7103	TM4SF3	<1e-14	transmembrane 4 superfamily member 3.CO-029.transmembrane 4 superfamily member 3.
+5265	SERPINA1	<1e-14	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1.PI; A1A; AAT; PI1; A1AT; alpha-1-antitrypsin.serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1.
+7704	ZNF145	<1e-14	zinc finger protein 145 (Kruppel-like, expressed in promyelocytic leukemia).PLZF.zinc finger protein 145 (Kruppel-like, expressed in promyelocytic leukemia).
+8490	RGS5	<1e-14	regulator of G-protein signalling 5.MSTP032.regulator of G-protein signalling 5.
+9699	RIMS2	<1e-14	regulating synaptic membrane exocytosis 2.OBOE; RIM2; RAB3IP3; KIAA0751.regulating synaptic membrane exocytosis 2.
+5413	PNUTL1	<1e-14	peanut-like 1 (Drosophila).H5; SEPT5; CDCREL; CDCREL1; CDCREL-1; HCDCREL-1.peanut-like 1.
+51412	ACTL6	<1e-14	actin-like 6.BAF53B.BAF53b.
+3897	L1CAM	<1e-14	L1 cell adhesion molecule (hydrocephalus, stenosis of aqueduct of Sylvius 1, MASA (mental retardation, aphasia, shuffling gait and adducted thumbs) syndrome, spastic paraplegia 1).S10; HSAS; MASA; MIC5; SPG1; CAML1; CD171; HSAS1; N-CAML1.L1 cell adhesion molecule isoform 2 precursor.
+2891	GRIA2	<1e-14	glutamate receptor, ionotropic, AMPA 2.GLUR2; GLURB; HBGR2.glutamate receptor, ionotropic, AMPA 2.
+2878	GPX3	<1e-14	glutathione peroxidase 3 (plasma)..plasma glutathione peroxidase 3 precursor.
+6696	SPP1	<1e-14	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1).OPN; BNSP; BSPI; ETA-1.secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1).Osteopontin (bone sialoprotein); bone and blood vessel extracellular matrix protein involved in calcification and atherosclerosis|Proteome
+3043	HBB	<1e-14	hemoglobin, beta..beta globin.
+1466	CSRP2	<1e-14	cysteine and glycine-rich protein 2.CRP2; LMO5.cysteine and glycine-rich protein 2.
+4826	NNAT	<1e-14	neuronatin.Peg5; MGC1439.neuronatin isoform beta.
+7123	TNA	<1e-14	tetranectin (plasminogen binding protein).TN.tetranectin (plasminogen binding protein).
+1524	CX3CR1	<1e-14	chemokine (C-X3-C motif) receptor 1.V28; CCRL1; GPR13; CMKDR1; GPRV28; CMKBRL1.chemokine (C-X3-C motif) receptor 1.
+2043	EPHA4	<1e-14	EphA4.SEK; HEK8; TYRO1.ephrin receptor EphA4.
+6327	SCN2B	<1e-14	sodium channel, voltage-gated, type II, beta..sodium channel, voltage-gated, type II, beta.
+5947	RBP1	<1e-14	retinol binding protein 1, cellular.CRBP; RBPC; CRBP1; CRABP-I.retinol binding protein 1, cellular.
+2290	FOXG1B	<1e-14	forkhead box G1B.BF1; QIN; FKH2; HFK1; FKHL1; FKHL4; HBF-1.forkhead box G1B.
+2775	GNAO1	<1e-14	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O.GNAO; G-ALPHA-o.guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O.G-protein alpha subunit o1; subunit of pertussis toxin-sensitive heterotrimeric G-protein complexes|Proteome
+7425	VGF	<1e-14	VGF nerve growth factor inducible..VGF nerve growth factor inducible precursor.
+64061	Oxct2a	<1e-14	3
+1081	CGA	<1e-14	glycoprotein hormones, alpha polypeptide.HCG; LHA; FSHA; GPHa; TSHA; GPHA1; CG-ALPHA.glycoprotein hormones, alpha polypeptide precursor.
+63941	APBA2BP	<1e-14	amyloid beta (A4) precursor protein-binding, family A, member 2 binding protein.NIP1; XB51; EFCBP3; NECAB3; SYTIP2; dJ63M2.4; dJ63M2.5.amyloid beta (A4) precursor protein-binding, family A, member 2 binding protein isoform 2.
+6663	SOX10	<1e-14	SRY (sex determining region Y)-box 10.DOM; WS4; MGC15649.SRY (sex determining region Y)-box 10.
+11013		<1e-14	thymosin, beta, identified in neuroblastoma cells.
+1299	COL9A3	<1e-14	collagen, type IX, alpha 3.IDD; MED; EDM3; DJ885L7.4.1.alpha 3 type IX collagen.
+8788	DLK1	<1e-14	delta-like 1 homolog (Drosophila).FA1; ZOG; pG2; PREF1; Pref-1.delta-like homolog.
+10633		<1e-14	RAS-related on chromosome 22.
+885	CCK	<1e-14	cholecystokinin..cholecystokinin preproprotein.
+4884	NPTX1	<1e-14	neuronal pentraxin I.NP1.neuronal pentraxin I precursor.
+1996	ELAVL4	<1e-14	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 4 (Hu antigen D).HUD; PNEM.ELAV (embryonic lethal, abnormal vision, Drosophila)-like 4 (Hu antigen D).
+7857	SCG2	<1e-14	secretogranin II (chromogranin C).CHGC; SgII.secretogranin II precursor.
+6623	SNCG	<1e-14	synuclein, gamma (breast cancer-specific protein 1).SR; BCSG1.synuclein, gamma (breast cancer-specific protein 1).
+9899	SV2B	<1e-14	synaptic vesicle glycoprotein 2B.HsT19680; KIAA0735.synaptic vesicle protein 2B homolog.
+79734		<1e-14	hypothetical protein FLJ12242.
+1113	CHGA	<1e-14	chromogranin A (parathyroid secretory protein 1).CGA.chromogranin A.
+322	APBB1	<1e-14	amyloid beta (A4) precursor protein-binding, family B, member 1 (Fe65).RIR; FE65; MGC:9072.amyloid beta A4 precursor protein-binding, family B, member 1 isoform delta E9.
+11041	B3GNT6	<1e-14	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6.IGAT; IGNT; iGAT; iGNT; BETA3GNTI.beta-1,3-N-acetylglucosaminyltransferase bGnT-6.
+5662	PSD	<1e-14	pleckstrin and Sec7 domain protein.TYL; KIAA2011.pleckstrin and Sec7 domain protein.
+6861	SYT5	<1e-14	synaptotagmin V..synaptotagmin V.
+2596	GAP43	<1e-14	growth associated protein 43.B-50; PP46.growth associated protein 43.
+22822	PHLDA1	<1e-14	pleckstrin homology-like domain, family A, member 1.TDAG51; DT1P1B11.pleckstrin homology-like domain, family A, member 1.
+2902	GRIN1	<1e-14	glutamate receptor, ionotropic, N-methyl D-aspartate 1.NR1; NMDA1; NMDAR1.NMDA receptor 1 isoform NR1-3 precursor.
+1463	CSPG3	<1e-14	chondroitin sulfate proteoglycan 3 (neurocan).NCAN.chondroitin sulfate proteoglycan 3 (neurocan).
+4857	NOVA1	<1e-14	neuro-oncological ventral antigen 1.Nova-1.neuro-oncological ventral antigen 1 isoform 2.
+9796	PHYHIP	<1e-14	phytanoyl-CoA hydroxylase interacting protein.PAHX-AP; KIAA0273.phytanoyl-CoA hydroxylase interacting protein.
+3306	HSPA2	<1e-14	heat shock 70kDa protein 2..heat shock 70kDa protein 2.
+1645	AKR1C1	<1e-14	aldo-keto reductase family 1, member C1 (dihydrodiol dehydrogenase 1; 20-alpha (3-alpha)-hydroxysteroid dehydrogenase).C9; DD1; DDH; DDH1; H-37; MBAB; HAKRC; MGC8954; 2-ALPHA-HSD; 20-ALPHA-HSD.aldo-keto reductase family 1, member C1.
+11075	STMN2	<1e-14	stathmin-like 2.SCG10; SGC10; SCGN10.superiorcervical ganglia, neural specific 10.
+8406	SRPX	<1e-14	sushi-repeat-containing protein, X-linked.ETX1.sushi-repeat-containing protein, X-linked.
+9900	SV2A	<1e-14	synaptic vesicle glycoprotein 2A.SV2; KIAA0736.synaptic vesicle glycoprotein 2.
+273	AMPH	<1e-14	amphiphysin (Stiff-Man syndrome with breast cancer 128kDa autoantigen).AMPH1.amphiphysin isoform 2.
+1410	CRYAB	<1e-14	crystallin, alpha B.CRYA2; CTPP2.crystallin, alpha B.
+10900		<1e-14	RaP2 interacting protein 8.Rap2 interacting protein 8; interacts with the activated form of Rap2|Proteome
+51704	GPRC5B	<1e-14	G protein-coupled receptor, family C, group 5, member B.RAIG2; RAIG-2.G protein-coupled receptor, family C, group 5, member B precursor.
+534	ATP6V1G2	<1e-14	ATPase, H transporting, lysosomal 13kDa, V1 subunit G isoform 2.NG38; ATP6G; Vma10; ATP6G2.ATPase, H transporting, lysosomal, V1 subunit G2, isoform b.
+23209	MLC1	<1e-14	megalencephalic leukoencephalopathy with subcortical cysts 1.VL; LVM; MLC; KIAA0027.megalencephalic leukoencephalopathy with subcortical cysts 1 gene product.
+346	APOC4	<1e-14	apolipoprotein C-IV..apolipoprotein C-IV.
+9607		<1e-14	cocaine- and amphetamine-regulated transcript.
+23194	FBXL7	<1e-14	F-box and leucine-rich repeat protein 7.FBL6; FBL7; FLJ11609; KIAA0840.F-box and leucine-rich repeat protein 7.
+6616	SNAP25	<1e-14	synaptosomal-associated protein, 25kDa.SNAP; SNAP-25; FLJ23079; bA416N4.2; dJ1068F16.2.synaptosomal-associated protein 25 isoform SNAP25B.
+1896	ED1	<1e-14	ectodermal dysplasia 1, anhidrotic.EDA; HED; EDA1; XHED; XLHED.ectodermal dysplasia 1, anhidrotic.
+7102	TM4SF2	<1e-14	transmembrane 4 superfamily member 2.A15; MXS1; CD231; CCG-B7; TALLA-1; TM4SF2b; DXS1692E.transmembrane 4 superfamily member 2.
+216	ALDH1A1	<1e-14	aldehyde dehydrogenase 1 family, member A1.ALDC; ALDH1; PUMB1; ALDH11; RALDH1; ALDH-E1; MGC2318.aldehyde dehydrogenase 1A1.
+10439	OLFM1	<1e-14	olfactomedin 1.AMY; NOE1; OlfA; NOELIN.olfactomedin related ER localized protein isoform 3.
+1780	DNCI1	<1e-14	dynein, cytoplasmic, intermediate polypeptide 1.DNCIC1.dynein, cytoplasmic, intermediate polypeptide 1.
+8938	BAIAP3	<1e-14	BAI1-associated protein 3.BAP3; KIAA0734.BAI1-associated protein 3.
+9568	GPR51	<1e-14	G protein-coupled receptor 51.HG20; GABBR2; GPRC3B; GABABR2.G protein-coupled receptor 51.
+794	CALB2	<1e-14	calbindin 2, 29kDa (calretinin).CAL2.calbindin 2 isoform 22k.
+5168	ENPP2	<1e-14	ectonucleotide pyrophosphatasephosphodiesterase 2 (autotaxin).ATX; PDNP2; LysoPLD; PD-IALPHA.ectonucleotide pyrophosphatasephosphodiesterase 2 (autotaxin).
+214	ALCAM	<1e-14	activated leukocyte cell adhesion molecule.MEMD; CD166.activated leukocyte cell adhesion molecule.
+4435	CITED1	<1e-14	Cbpp300-interacting transactivator, with GluAsp-rich carboxy-terminal domain, 1.MSG1.Cbpp300-interacting transactivator, with GluAsp-rich carboxy-terminal domain, 1.
+5798	PTPRN	<1e-14	protein tyrosine phosphatase, receptor type, N.IA2; IA-2; ICA512; R-PTP-N; IA-2PTP.protein tyrosine phosphatase, receptor type, N precursor.
+6252	RTN1	<1e-14	reticulon 1.NSP.reticulon 1.
+3800	KIF5C	<1e-14	kinesin family member 5C.KINN; NKHC; NKHC2; NKHC-2; KIAA0531..
+5122	PCSK1	<1e-14	proprotein convertase subtilisinkexin type 1.PC1; PC3; NEC1; SPC3.proprotein convertase subtilisinkexin type 1 preproprotein.
+9077	ARHI	<1e-14	ras homolog gene family, member I.NOEY2.ras homolog I.
+25999		<1e-14	CLIPR59; DKFZp586N1922.CLIP-170-related protein.May be a cytoskeleton-associated protein; contains a CAP-Gly domain|Proteome
+8537	BCAS1	<1e-14	breast carcinoma amplified sequence 1.AIBC1; NABC1.breast carcinoma amplified sequence 1.
+1646	AKR1C2	<1e-14	aldo-keto reductase family 1, member C2 (dihydrodiol dehydrogenase 2; bile acid binding protein; 3-alpha hydroxysteroid dehydrogenase, type III).DD; DD2; BABP; DDH2; HBAB; HAKRD; MCDR2; AKR1C-pseudo.aldo-keto reductase family 1, member C2.
+6649	SOD3	<1e-14	superoxide dismutase 3, extracellular..superoxide dismutase 3, extracellular.
+8484	GALR3	<1e-14	galanin receptor 3..galanin receptor 3.
+7345	UCHL1	<1e-14	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase).PARK5; PGP9.5.ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase).
+6447	SGNE1	<1e-14	secretory granule, neuroendocrine protein 1 (7B2 protein).P7B2.secretory granule, neuroendocrine protein 1 (7B2 protein).
+4129	MAOB	<1e-14	monoamine oxidase B.MGC26382.amine oxidase (flavin-containing).
+5179	PENK	<1e-14	proenkephalin..proenkephalin.
+57416		<1e-14	
+9651		<1e-14	FLJ00417..
+4747	NEFL	<1e-14	neurofilament, light polypeptide 68kDa.NFL; NF68; CMT1F; CMT2E.neurofilament, light polypeptide 68kDa.Light subunit of neurofilament; intermediate filament|Proteome
+5354	PLP1	<1e-14	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated).PLP; PMD; MMPL; SPG2; PLPDM20.proteolipid protein 1 isoform 1.
+12	SERPINA3	<1e-14	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3.ACT; AACT.alpha-1-antichymotrypsin, precursor.
+6604	SMARCD3	<1e-14	SWISNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3.BAF60C; CRACD3.SWISNF-related matrix-associated actin-dependent regulator of chromatin d3.
+9737		<1e-14	KIAA0443.G protein-coupled receptor-associated sorting protein.
+9478	CABP1	<1e-14	calcium binding protein 1 (calbrain).CALBRAIN; HCALB_BR.calcium binding protein 1 isoform 2.
+5799	PTPRN2	<1e-14	protein tyrosine phosphatase, receptor type, N polypeptide 2.IAR; ICAAR; PTPRP; PHOGRIN; IA-2beta; KIAA0387; IAR PTPRP.protein tyrosine phosphatase, receptor type, N polypeptide 2 isoform 3 precursor.
+760	CA2	<1e-14	carbonic anhydrase II.CA-II.carbonic anhydrase II.
+116138	KLHDC3	<1e-14	kelch domain containing 3.PEAS; HPEAS; hPeas; dJ20C7.3.testis intracellular mediator protein.
+5005	ORM2	<1e-14	orosomucoid 2.AGP2; AGP-B; AGP-B.orosomucoid 2.
+6750	SST	<1e-14	somatostatin.SMST.somatostatin.
+183	AGT	<1e-14	angiotensinogen (serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 8).ANHU; SERPINA8.angiotensinogen precursor.
+7122	CLDN5	<1e-14	claudin 5 (transmembrane protein deleted in velocardiofacial syndrome).AWAL; BEC1; TMVCF; CPETRL1.claudin 5.
+1627	DBN1	<1e-14	drebrin 1.D0S117E; DKFZp434D064.drebrin 1 isoform b.
+4919	ROR1	<1e-14	receptor tyrosine kinase-like orphan receptor 1.NTRKR1; dJ537F10.1.receptor tyrosine kinase-like orphan receptor 1.
+3642	INSM1	<1e-14	insulinoma-associated 1.IA1; IA-1.insulinoma-associated 1.
+4297	MLL	<1e-14	myeloidlymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila).HRX; TRX1; ALL-1; HTRX1.myeloidlymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila).
+3908	LAMA2	<1e-14	laminin, alpha 2 (merosin, congenital muscular dystrophy).LAMM.laminin alpha 2 subunit precursor.
+27339		1.42109e-13	PSO4; hPSO4.nuclear matrix protein NMP200 related to splicing factor PRP19.
+4133	MAP2	1.98952e-13	microtubule-associated protein 2.MAP2A; MAP2B; MAP2C.microtubule-associated protein 2 isoform 4.
+9145	SYNGR1	1.98952e-13	synaptogyrin 1.MGC:1939.synaptogyrin 1 isoform 1c.
+8534	CHST1	2.55795e-13	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1.C6ST; KS6ST; KSGAL6ST; KSGal6ST.carbohydrate (keratan sulfate Gal-6) sulfotransferase 1.
+934	CD24	2.55795e-13	CD24 antigen (small cell lung carcinoma cluster 4 antigen).CD24A.CD24 antigen (small cell lung carcinoma cluster 4 antigen).
+57030	SLC17A7	3.12639e-13	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7.TACE; 1600027H05Rik; tMDCIII; BNPI; VGLUT1.solute carrier family 17, member 7.
+10529		3.12639e-13	nebulette.
+3679	ITGA7	3.12639e-13	integrin, alpha 7..integrin alpha 7 precursor.
+23705	IGSF4	5.40012e-13	immunoglobulin superfamily, member 4.BL2; ST17; NECL2; TSLC1; SYNCAM.immunoglobulin superfamily, member 4.Low similarity to viral receptors and adhesion molecules; contains immunoglobulin (Ig) domains|Proteome
+4303	MLLT7	7.67386e-13	myeloidlymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 7.AFX; AFX1; FOXO4.myeloidlymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 7.
+213	ALB	1.27898e-12	albumin.PRO0883.albumin precursor.
+1838	DTNB	1.50635e-12	dystrobrevin, beta.MGC17163; MGC57126.dystrobrevin, beta isoform 5.
+5602	MAPK10	1.56319e-12	mitogen-activated protein kinase 10.JNK3; JNK3A; PRKM10; p493F12; FLJ12099; p54bSAPK.mitogen-activated protein kinase 10 isoform 4.
+10716	TBR1	1.62004e-12	T-box, brain, 1.TES-56.T-box, brain, 1.
+1298	COL9A2	2.30216e-12	collagen, type IX, alpha 2.MED; EDM2; DJ39G22.4.alpha 2 type IX collagen.
+26133	TRPC4AP	3.09797e-12	transient receptor potential cation channel, subfamily C, member 4 associated protein.TRUSS; TRRP4AP; C20orf188.TRPC4-associated protein isoform a.
+7216	TRO	3.38218e-12	trophinin.MAGED3; MAGE-d3; KIAA1114.trophinin isoform 4.
+22903	BTBD3	5.20117e-12	BTB (POZ) domain containing 3.KIAA0952; dJ742J24.1.BTBPOZ domain containing protein 3 isoform b.
+1124	CHN2	6.73595e-12	chimerin (chimaerin) 2.ARHGAP3; RHOGAP3.chimerin (chimaerin) 2.
+10521	DDX17	7.19069e-12	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17.P72; RH70.DEAD box polypeptide 17 isoform p82.
+2743	GLRB	9.6918e-12	glycine receptor, beta..glycine receptor, beta.
+5881	RAC3	9.80549e-12	ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)..ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3).
+11197	WIF1	1.14539e-11	WNT inhibitory factor 1.WIF-1.Wnt inhibitory factor-1 precursor.
+348	APOE	1.25908e-11	apolipoprotein E..apolipoprotein E.
+26040	SETBP1	1.56604e-11	SET binding protein 1.SEB; KIAA0437.SET binding protein 1.
+2173	FABP7	2.0151e-11	fatty acid binding protein 7, brain.FABPB; B-FABP.fatty acid binding protein 7, brain.
+2705	GJB1	2.31068e-11	gap junction protein, beta 1, 32kDa (connexin 32, Charcot-Marie-Tooth neuropathy, X-linked).CMTX; CX32; CMTX1.gap junction protein, beta 1, 32kDa (connexin 32, Charcot-Marie-Tooth neuropathy, X-linked).
+7546	ZIC2	3.45892e-11	Zic family member 2 (odd-paired homolog, Drosophila).HPE5.zinc finger protein of the cerebellum 2.
+5210	PFKFB4	3.59535e-11	6
+2260	FGFR1	3.77725e-11	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome).H2; H3; H4; H5; CEK; FLG; FLT2; KAL2; BFGFR; C-FGR; N-SAM; FLJ14326.fibroblast growth factor receptor 1 isoform 9 precursor.
+3741	KCNA5	4.51621e-11	potassium voltage-gated channel, shaker-related subfamily, member 5.HK2; HCK1; PCN1; HPCN1; KV1.5.potassium voltage-gated channel, shaker-related subfamily, member 5.
+10912	GADD45G	4.7379e-11	growth arrest and DNA-damage-inducible, gamma.CR6; DDIT2; GRP17; GADD45gamma; GADD45-GAMMA.growth arrest and DNA-damage-inducible, gamma.
+2034	EPAS1	5.27223e-11	endothelial PAS domain protein 1.MOP2; HIF2A.endothelial PAS domain protein 1.
+26047	CNTNAP2	5.98845e-11	contactin associated protein-like 2.NRXN4; CASPR2; KIAA0868.cell recognition molecule Caspr2 precursor.
+6620	SNCB	6.807e-11	synuclein, beta..beta-synuclein.
+771	CA12	7.64828e-11	carbonic anhydrase XII..carbonic anhydrase XII precursor.
+873	CBR1	7.77334e-11	carbonyl reductase 1.CBR.carbonyl reductase 1.
+3371	TNC	1.01267e-10	tenascin C (hexabrachion).TN; HXB.tenascin C (hexabrachion).
+8470		1.14454e-10	KIAA0777.ArgAbl-interacting protein 2 isoform 2.
+9751	SNPH	1.24857e-10	syntaphilin.KIAA0374; MGC46096; bA314N13.5.syntaphilin.
+3429	IFI27	1.51402e-10	interferon, alpha-inducible protein 27.P27; ISG12.interferon, alpha-inducible protein 27.
+4684	NCAM1	1.68058e-10	neural cell adhesion molecule 1.CD56; NCAM.neural cell adhesion molecule 1.Neural cell adhesion molecule 1; regulates interactions between neurons and between neurons and muscle; member of the immunoglobulin superfamily|Proteome
+1759	DNM1	1.79142e-10	dynamin 1.DNM.dynamin 1.
+2263	FGFR2	1.94035e-10	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome).BEK; JWS; CEK3; CFD1; ECT1; KGFR; TK14; TK25; BFR-1; K-SAM.fibroblast growth factor receptor 2 isoform 9 precursor.
+10579	TACC2	2.44057e-10	transforming, acidic coiled-coil containing protein 2.AZU-1.transforming, acidic coiled-coil containing protein 2.
+1572	CYP2F1	2.53664e-10	cytochrome P450, family 2, subfamily F, polypeptide 1.C2F1; CYP2F.cytochrome P450, family 2, subfamily F, polypeptide 1.
+2026	ENO2	2.5446e-10	enolase 2, (gamma, neuronal).NSE.enolase 2.
+192683		2.80835e-10	secretory carrier membrane protein 5.
+9079	LDB2	3.32449e-10	LIM domain binding 2.LDB1; CLIM1.LIM domain binding 2.LIM domain binding 2; modulates transcriptional activation by LIM homeoproteins; very strongly similar to murine Mm.8266 which may play a role in the differentiation of neuronal lineages through association with murine Lhx9|Proteome
+5653	KLK6	3.4899e-10	kallikrein 6 (neurosin, zyme).SP59; PRSS9; MGC9355; NEUROSIN.kallikrein 6 preproprotein.
+1152	CKB	4.19249e-10	creatine kinase, brain.B-CK; CKBB.brain creatine kinase.
+4638	MYLK	4.50854e-10	myosin, light polypeptide kinase.KRP; MLCK; MLCK108; MLCK210; FLJ12216.myosin light chain kinase isoform 6.
+5078	PAX4	4.61768e-10	paired box gene 4..paired box gene 4.
+23046		4.94225e-10	KIAA0449; DKFZP434J212..
+9783	RIMS3	5.206e-10	regulating synaptic membrane exocytosis 3.NIM3; RIM3; KIAA0237.regulating synaptic membrane exocytosis 3.
+361	AQP4	6.69701e-10	aquaporin 4.MIWC; HMIWC2.aquaporin 4 isoform b.
+9915	ARNT2	7.84581e-10	aryl-hydrocarbon receptor nuclear translocator 2.KIAA0307.aryl-hydrocarbon receptor nuclear translocator 2.
+27121	DKK4	9.78758e-10	dickkopf homolog 4 (Xenopus laevis).DKK-4; hdkk-4.dickkopf homolog 4.
+2788	GNG7	9.90411e-10	guanine nucleotide binding protein (G protein), gamma 7..guanine nucleotide binding protein (G protein), gamma 7.
+1978	EIF4EBP1	1.21307e-09	eukaryotic translation initiation factor 4E binding protein 1.4EBP1; PHAS-I.eukaryotic translation initiation factor 4E binding protein 1.
+3250	HPR	1.32312e-09	haptoglobin-related protein..haptoglobin-related protein.
+9844	ELMO1	1.45505e-09	engulfment and cell motility 1 (ced-12 homolog, C. elegans).CED12; KIAA0281.engulfment and cell motility 1 isoform 2.
+9993	DGCR2	1.53986e-09	DiGeorge syndrome critical region gene 2.IDD; LAN; DGS-C; SEZ-12; KIAA0163.integral membrane protein DGCR2.
+90355		3.26671e-09	hypothetical protein LOC90355.
+2244	FGB	3.41467e-09	fibrinogen, B beta polypeptide..fibrinogen, beta chain preproprotein.
+23236	PLCB1	3.45571e-09	phospholipase C, beta 1 (phosphoinositide-specific).PLC-I; PI-PLC; PLC-154.phosphoinositide-specific phospholipase C beta 1 isoform b.
+1292	COL6A2	3.51915e-09	collagen, type VI, alpha 2.PP3610; DKFZp586E1322.alpha 2 type VI collagen isoform 2C2a precursor.
+5105	PCK1	3.80933e-09	phosphoenolpyruvate carboxykinase 1 (soluble).PEPCK1; PEPCKC; MGC22652.cytosolic phosphoenolpyruvate carboxykinase 1.
+26137	ZNF288	3.92677e-09	zinc finger protein 288.HOF; DPZF; ODA-8S; DKFZp566F123.zinc finger protein 288.
+5999	RGS4	4.17961e-09	regulator of G-protein signalling 4.RGP4; MGC2124; MGC60244.regulator of G-protein signaling 4.
+3486	IGFBP3	4.28483e-09	insulin-like growth factor binding protein 3.IBP3.insulin-like growth factor binding protein 3.
+5654	PRSS11	4.37572e-09	protease, serine, 11 (IGF binding).L56; HtrA; HTRA1; ORF480.protease, serine, 11.
+11031	RAB31	6.03509e-09	RAB31, member RAS oncogene family.Rab22B.RAB31, member RAS oncogene family.
+1628	DBP	6.62791e-09	D site of albumin promoter (albumin D-box) binding protein.DABP.D site of albumin promoter (albumin D-box) binding protein.
+6414	SEPP1	7.07698e-09	selenoprotein P, plasma, 1.SeP.selenoprotein P precursor.
+1804	DPP6	7.95583e-09	dipeptidylpeptidase 6.DPPX.dipeptidylpeptidase VI isoform 2.
+25977		1.66766e-08	DKFZP566B183 protein.
+3265	HRAS	2.25222e-08	v-Ha-ras Harvey rat sarcoma viral oncogene homolog.HRAS1; RASH1.v-Ha-ras Harvey rat sarcoma viral oncogene homolog.Harvey ras; binds GTP and transmits signals from growth factor receptors|Proteome
+1993	ELAVL2	2.2704e-08	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B).HUB; HELN1; HEL-N1.ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B).
+2152	F3	2.37248e-08	coagulation factor III (thromboplastin, tissue factor).TF; TFA; CD142.coagulation factor III precursor.
+80256		2.38396e-08	KIAA1539.hypothetical protein FLJ11560.
+5310	PKD1	2.39714e-08	polycystic kidney disease 1 (autosomal dominant).PBP.polycystin 1 precursor.
+894	CCND2	3.03371e-08	cyclin D2.KIAK0002.cyclin D2.
+341	APOC1	4.69899e-08	apolipoprotein C-I..apolipoprotein C-I precursor.
+4495	MT1G	4.70751e-08	metallothionein 1G.MT1; MGC12386.metallothionein 1G.
+5142	PDE4B	4.79116e-08	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila).DPDE4; PDEIVB.phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila).
+55970	GNG12	5.27063e-08	guanine nucleotide binding protein (G protein), gamma 12..G-protein gamma-12 subunit.
+2052	EPHX1	5.41026e-08	epoxide hydrolase 1, microsomal (xenobiotic).MEH; EPHX; EPOX.epoxide hydrolase 1, microsomal (xenobiotic).
+7078	TIMP3	6.71702e-08	tissue inhibitor of metalloproteinase 3 (Sorsby fundus dystrophy, pseudoinflammatory).SFD; K222TA2; HSMRK222.tissue inhibitor of metalloproteinase 3.
+4208	MEF2C	7.79324e-08	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)..MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C).
+2254	FGF9	8.49108e-08	fibroblast growth factor 9 (glia-activating factor).GAF; HBFG-9.fibroblast growth factor 9 precursor.
+1002	CDH4	8.54581e-08	cadherin 4, type 1, R-cadherin (retinal).CAD4; RCAD.cadherin 4, type 1 preproprotein.
+429	ASCL1	9.42436e-08	achaete-scute complex-like 1 (Drosophila).ASH1; HASH1; MASH1.achaete-scute complex homolog-like 1.
+131408		1.00554e-07	hypothetical protein MGC21688.
+1755	DMBT1	1.04036e-07	deleted in malignant brain tumors 1.GP340.deleted in malignant brain tumors 1 isoform c precursor.
+7991		1.37354e-07	D8S1992; MGC13453.Putative prostate cancer tumor suppressor isoform b.
+3638	INSIG1	2.02368e-07	insulin induced gene 1.CL-6; MGC1405.insulin induced gene 1 isoform 3.
+4524	MTHFR	2.17312e-07	5
+21	ABCA3	2.32984e-07	ATP-binding cassette, sub-family A (ABC1), member 3.ABC3; ABC-C; LBM180; EST111653.ATP-binding cassette, sub-family A member 3.
+4005	LMO2	2.49301e-07	LIM domain only 2 (rhombotin-like 1).TTG2; RBTN2; RHOM2; RBTNL1.LIM domain only 2.
+321	APBA2	2.67404e-07	amyloid beta (A4) precursor protein-binding, family A, member 2 (X11-like).X11L; MINT2; LIN-10; D15S1518E; MGC:14091.amyloid beta A4 precursor protein-binding, family A, member 2.
+1056	CEL	3.22223e-07	carboxyl ester lipase (bile salt-stimulated lipase).BAL; FAP; BSDL; BSSL; CELL; FAPP; LIPA; CEase.carboxyl ester lipase precursor.
+4974	OMG	3.24771e-07	oligodendrocyte myelin glycoprotein.OMGP.oligodendrocyte myelin glycoprotein.
+27347	STK39	3.4639e-07	serine threonine kinase 39 (STE20SPS1 homolog, yeast).DCHT; SPAK.serine threonine kinase 39 (STE20SPS1 homolog, yeast).
+3730	KAL1	3.52485e-07	Kallmann syndrome 1 sequence.HHA; KAL; KMS; ADMLX; KALIG-1.Kallmann syndrome 1 protein.
+8349	HIST2H2BE	3.54496e-07	histone 2, H2be.H2B; GL105; H2B.1; H2Bq; H2BFQ.H2B histone family, member Q.
+83604	TM4SF10	3.65321e-07	transmembrane 4 superfamily member 10.TfIIAab; BCMP1; MGC32949; DKFZp564E153; DKFZP761J17121.transmembrane 4 superfamily member 10.
+9415	FADS2	3.75362e-07	fatty acid desaturase 2.D6D; DES6; TU13; FADSD6; LLCDL2; SLL0262.fatty acid desaturase 2.
+11151	CORO1A	3.9064e-07	coronin, actin binding protein, 1A.p57; TACO; CLABP; HCORO1; CLIPINA; Clabp TACO.coronin, actin binding protein, 1A.
+10245	TIMM17B	4.40509e-07	translocase of inner mitochondrial membrane 17 homolog B (yeast).JM3; TIM17B; DXS9822.translocase of inner mitochondrial membrane 17 homolog B.
+5996	RGS1	4.86887e-07	regulator of G-protein signalling 1.1R20; BL34; IER1; IR20.regulator of G-protein signalling 1.
+10752	CHL1	5.41233e-07	cell adhesion molecule with homology to L1CAM (close homolog of L1).CALL; L1CAM2.cell adhesion molecule with homology to L1CAM precursor.
+398	ARHGDIG	6.23004e-07	Rho GDP dissociation inhibitor (GDI) gamma..Rho GDP dissociation inhibitor (GDI) gamma.
+10656	KHDRBS3	6.33454e-07	KH domain containing, RNA binding, signal transduction associated 3.Etle; SALP; SLM2; SLM-2; T-STAR; etoile.KH domain containing, RNA binding, signal transduction associated 3.
+535	ATP6V0A1	7.10651e-07	ATPase, H transporting, lysosomal V0 subunit a isoform 1.a1; Stv1; VPP1; Vph1; ATP6N1; ATP6N1A.ATPase, H transporting, lysosomal V0 subunit a isoform 1.
+8653	DDX3Y	7.13367e-07	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked.DBY.DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked.
+9399	STOML1	8.42097e-07	stomatin (EPB72)-like 1.SLP-1; STORP; hUNC-24.stomatin (EPB72)-like 1.Stomatin-like protein 1; similar to C. elegans UNC-24, contains an N-terminal stomatin-like and a C-terminal non-specific lipid transfer protein domain|Proteome
+1026	CDKN1A	8.93405e-07	cyclin-dependent kinase inhibitor 1A (p21, Cip1).P21; CIP1; SDI1; WAF1; CAP20; CDKN1; MDA-6.cyclin-dependent kinase inhibitor 1A.
+4915	NTRK2	9.38635e-07	neurotrophic tyrosine kinase, receptor, type 2.TRKB.neurotrophic tyrosine kinase, receptor, type 2.Receptor protein tyrosine kinase, type 2; binds brain-derived neurotrophic factor (BDNF) and NTF3|Proteome
+24148	C20orf14	9.56742e-07	chromosome 20 open reading frame 14.TOM; ANT-1.U5 snRNP-associated 102 kDa protein.
+7447	VSNL1	1.07367e-06	visinin-like 1.VILIP; HPCAL3.visinin-like 1.
+1917	EEF1A2	1.20171e-06	eukaryotic translation elongation factor 1 alpha 2.HS1; STN; EF1A; EEF1AL; EF-1-alpha-2.eukaryotic translation elongation factor 1 alpha 2.
+5064	PALM	1.30296e-06	paralemmin.KIAA0270.paralemmin.
+9962	SLC23A2	1.36384e-06	solute carrier family 23 (nucleobase transporters), member 2.NBTL1; SVCT2; YSPL2; SLC23A1; KIAA0238.solute carrier family 23 (nucleobase transporters), member 2.
+501	ALDH7A1	1.37677e-06	aldehyde dehydrogenase 7 family, member A1.ATQ1.antiquitin.
+713	C1QB	1.44915e-06	complement component 1, q subcomponent, beta polypeptide..complement component 1, q subcomponent, beta polypeptide precursor.
+2897	GRIK1	1.85348e-06	glutamate receptor, ionotropic, kainate 1.EAA3; EEA3; GLR5; GLUR5.Glutamate receptor, ionotropic, kainate 1 isoform 2 precursor.
+288	ANK3	1.9847e-06	ankyrin 3, node of Ranvier (ankyrin G)..ankyrin 3 isoform 2.
+3162	HMOX1	2.53218e-06	heme oxygenase (decycling) 1.HO-1; bK286B10.heme oxygenase (decyclizing) 1.
+2487	FRZB	2.82566e-06	frizzled-related protein.FRP-3; FRZB1; SFRP3; FRZB-PEN.frizzled-related protein.
+2196	FAT2	3.19638e-06	FAT tumor suppressor homolog 2 (Drosophila).CDHF8; HFAT2; MEGF1.FAT tumor suppressor 2 precursor.
+9863		3.22153e-06	ARIP1; MAGI-2; ACVRIP1; KIAA0705.atrophin-1 interacting protein 1.
+7301	TYRO3	4.31085e-06	TYRO3 protein tyrosine kinase.BYK; RSE.TYRO3 protein tyrosine kinase.
+9649		4.3386e-06	RALGEF2; KIAA0351.Ral guanine nucleotide exchange factor RalGPS1A.
+2697	GJA1	4.85235e-06	gap junction protein, alpha 1, 43kDa (connexin 43).ODD; CX43; ODDD; ODOD; SDTY3; DFNB38.connexin 43.
+4741	NEF3	4.96318e-06	neurofilament 3 (150kDa medium).NFM; NEFM; NF-M.neurofilament 3 (150kDa medium).
+4629	MYH11	5.02085e-06	myosin, heavy polypeptide 11, smooth muscle.SMHC; SMMHC.smooth muscle myosin heavy chain 11 isoform SM2.
+3485	IGFBP2	5.33693e-06	insulin-like growth factor binding protein 2, 36kDa.IBP2; IGF-BP53.insulin-like growth factor binding protein 2, 36kDa.
+6833	ABCC8	5.69336e-06	ATP-binding cassette, sub-family C (CFTRMRP), member 8.HI; SUR; MRP8; PHHI; SUR1; ABC36; HRINS.ATP-binding cassette, sub-family C, member 8.
+5569	PKIA	5.91153e-06	protein kinase (cAMP-dependent, catalytic) inhibitor alpha.PRKACN1.cAMP-dependent protein kinase inhibitor alpha.
+5412	UBL3	6.1873e-06	ubiquitin-like 3.HCG-1; PNSC1; DKFZP434K151.ubiquitin-like 3.
+57509		6.82783e-06	MP44; ATIP1; FLJ14295; KIAA1288; DKFZp586D1519..
+9805		7.30322e-06	KIAA0193.secernin 1.
+9705	ST18	8.29689e-06	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein).ZNF387; KIAA0535.suppression of tumorigenicity 18.
+60528	ELAC2	8.72316e-06	elaC homolog 2 (E. coli).ELC2; HPC2; FLJ10530.elaC homolog 2.
+3300	DNAJB2	9.05284e-06	DnaJ (Hsp40) homolog, subfamily B, member 2.HSJ1; HSPF3.DnaJ (Hsp40) homolog, subfamily B, member 2.
+10982	MAPRE2	9.12647e-06	microtubule-associated protein, RPEB family, member 2.EB1; EB2; RP1.microtubule-associated protein, RPEB family, member 2.
+7021	TFAP2B	9.42734e-06	transcription factor AP-2 beta (activating enhancer binding protein 2 beta).CHAR; AP-2B; AP2-B.transcription factor AP-2 beta (activating enhancer binding protein 2 beta).
+862	CBFA2T1	9.46472e-06	core-binding factor, runt domain, alpha subunit 2; translocated to, 1; cyclin D-related.CDR; ETO; MTG8; AML1T1; ZMYND2; MGC2796.acute myelogenous leukemia 1 translocation 1 protein isoform MTG8c.
+1943	EFNA2	9.68666e-06	ephrin-A2.ELF-1; EPLG6; LERK6; HEK7-L.ephrin-A2 precursor.
+10297		1.00442e-05	APC2.adenomatous polyposis coli like.
+745	C11orf9	1.01133e-05	chromosome 11 open reading frame 9.KIAA0954; MGC10781.chromosome 11 open reading frame 9.
+51363		1.4246e-05	BRAG; KIAA0598.B cell RAG associated protein.
+3851	KRT4	1.51938e-05	keratin 4.K4; CK4; CYK4; FLJ31692.keratin 4.
+5800	PTPRO	1.64957e-05	protein tyrosine phosphatase, receptor type, O.PTPU2; GLEPP1; PTP-U2.receptor-type protein tyrosine phosphatase O isoform d precursor.
+491	ATP2B2	1.70174e-05	ATPase, Ca transporting, plasma membrane 2.PMCA2.ATPase, Ca transporting, plasma membrane 2.
+5860	QDPR	1.71828e-05	quinoid dihydropteridine reductase.DHPR; PKU2.quinoid dihydropteridine reductase.
+4155	MBP	1.96562e-05	myelin basic protein..myelin basic protein.
+50855	PARD6A	2.04671e-05	par-6 partitioning defective 6 homolog alpha (C.elegans).PAR-6; TAX40; PAR-6A; TIP-40; PAR6alpha.Tax interaction protein 40.
+2983	GUCY1B3	2.27477e-05	guanylate cyclase 1, soluble, beta 3.GUCB3; GC-SB3; GUC1B3; GUCSB3; GC-S-beta-1.guanylate cyclase 1, soluble, beta 3.
+57060	PCBP4	2.36128e-05	poly(rC) binding protein 4.LIP4; MCG10.poly(rC) binding protein 4 isoform c.
+5439	POLR2J	2.39734e-05	polymerase (RNA) II (DNA directed) polypeptide J, 13.3kDa.RPB11; RPB11A; RPB11m; hRPB14; POLR2J1.DNA directed RNA polymerase II polypeptide J.
+23466	CBX6	2.91056e-05	chromobox homolog 6..chromobox homolog 6.
+6659	SOX4	2.91155e-05	SRY (sex determining region Y)-box 4.EVI16.SRY (sex determining region Y)-box 4.
+6511	SLC1A6	3.44839e-05	solute carrier family 1 (high affinity aspartateglutamate transporter), member 6.EAAT4.solute carrier family 1 (high affinity aspartateglutamate transporter), member 6.
+2941	GSTA4	3.51577e-05	glutathione S-transferase A4.GTA4; GSTA4-4.glutathione S-transferase A4.
+9053	MAP7	3.64357e-05	microtubule-associated protein 7.EMAP115; E-MAP-115.microtubule-associated protein 7.
+4356	MPP3	3.73022e-05	membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3).DLG3.palmitoylated membrane protein 3.
+10810	WASF3	3.88924e-05	WAS protein family, member 3.SCAR3; WAVE3; KIAA0900.WAS protein family, member 3.
+6585	SLIT1	3.96423e-05	slit homolog 1 (Drosophila).MEGF4; SLIL1; SLIT3; Slit-1.slit homolog 1.
+10278	EFS	4.23224e-05	embryonal Fyn-associated substrate.SIN; EFS1; EFS2; HEFS.embryonal Fyn-associated substrate isoform 2.
+755	C21orf2	4.46e-05	chromosome 21 open reading frame 2.A2; YF5.chromosome 21 open reading frame 2.
+10608	MXD4	4.63408e-05	MAX dimerization protein 4.MAD4.MAD4.
+1999	ELF3	4.79151e-05	E74-like factor 3 (ets domain transcription factor, epithelial-specific ).ERT; ESX; EPR-1; ESE-1.E74-like factor 3 (ets domain transcription factor, epithelial-specific ).ETS domain transcriptional activator; activates expression of epithelial cell specific genes|Proteome
+15	AANAT	4.87479e-05	arylalkylamine N-acetyltransferase.SNAT; AA-NAT.arylalkylamine N-acetyltransferase.
+6712	SPTBN2	5.88006e-05	spectrin, beta, non-erythrocytic 2..spectrin, beta, non-erythrocytic 2.
+9542	NRG2	5.99191e-05	neuregulin 2.NTAK; Don-1.neuregulin 2 isoform 6.
+9997	SCO2	6.26714e-05	SCO cytochrome oxidase deficient homolog 2 (yeast).SCO1L.cytochrome oxidase deficient homolog 2.
+9355	LHX2	6.61258e-05	LIM homeobox 2.LH2; hLhx2.LIM homeobox protein 2.
+883	CCBL1	7.3271e-05	cysteine conjugate-beta lyase; cytoplasmic (glutamine transaminase K, kyneurenine aminotransferase)..cytoplasmic cysteine conjugate-beta lyase.
+27303	RBMS3	7.88247e-05	RNA binding motif, single stranded interacting protein..RNA binding motif, single stranded interacting protein.
+3489	IGFBP6	7.88951e-05	insulin-like growth factor binding protein 6.IBP6.insulin-like growth factor binding protein 6.
+8910	SGCE	8.0722e-05	sarcoglycan, epsilon.ESG; DYT11.sarcoglycan, epsilon.
+773	CACNA1A	8.34684e-05	calcium channel, voltage-dependent, PQ type, alpha 1A subunit.EA2; FHM; MHP; APCA; HPCA; MHP1; SCA6; CACNL1A4.calcium channel, alpha 1A subunit isoform 2.
+7088	TLE1	9.81109e-05	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila).ESG; ESG1; GRG1.transducin-like enhancer protein 1.
+9945	GFPT2	0.000105881	glutamine-fructose-6-phosphate transaminase 2.GFAT2.glutamine-fructose-6-phosphate transaminase 2.
+4858	NOVA2	0.000120341	neuro-oncological ventral antigen 2.ANOVA; NOVA3.neuro-oncological ventral antigen 2.
+10472	ZNF238	0.000122185	zinc finger protein 238.RP58; TAZ-1; C2H2-171.zinc finger protein 238.
+2195	FAT	0.000124594	FAT tumor suppressor homolog 1 (Drosophila).ME5; CDHF7.FAT tumor suppressor precursor.
+1949	EFNB3	0.000130821	ephrin-B3.EFL6; EPLG8; LERK8.ephrin-B3 precursor.
+793	CALB1	0.000138267	calbindin 1, 28kDa.CALB.calbindin 1.
+8869	SIAT9	0.00015921	sialyltransferase 9 (CMP-NeuAc:lactosylceramide alpha-2,3-sialyltransferase; GM3 synthase).ST3GalV; SIATGM3S.sialyltransferase 9.
+1850	DUSP8	0.000169061	dual specificity phosphatase 8.HB5; HVH8; HVH-5.dual specificity phosphatase 8.
+29970	SCHIP1	0.000169681	schwannomin interacting protein 1.SCHIP-1.schwannomin interacting protein 1.Associates with the neurofibromatosis type 2 protein schwannomin (NF2); contains a coiled-coil domain|Proteome
+23641	LDOC1	0.000206976	leucine zipper, down-regulated in cancer 1.BCUR1.leucine zipper, down-regulated in cancer 1.
+22795	NID2	0.000220481	nidogen 2 (osteonidogen)..nidogen 2.
+6752	SSTR2	0.000223275	somatostatin receptor 2..somatostatin receptor 2.
+7124	TNF	0.000233986	tumor necrosis factor (TNF superfamily, member 2).DIF; TNFA; TNFSF2; CACHECTIN.tumor necrosis factor alpha.
+22895	RPH3A	0.000239569	rabphilin 3A homolog (mouse).KIAA0985; rabphilin.rabphilin 3A homolog.
+11145	HRASLS3	0.000269121	HRAS-like suppressor 3.HREV107; HREV107-3; H-REV107-1.HRAS-like suppressor 3.
+1267	CNP	0.00027289	2
+1462	CSPG2	0.000309971	chondroitin sulfate proteoglycan 2 (versican).VERSICAN.chondroitin sulfate proteoglycan 2 (versican).
+5187	PER1	0.000337987	period homolog 1 (Drosophila).PER; RIGUI.period 1.
+25830	SULT4A1	0.000444647	sulfotransferase family 4A, member 1.NST; SULTX3; BR-STL-1; MGC40032; DJ388M5.3; hBR-STL-1.sulfotransferase family 4A, member 1 isoform b.
+275	AMT	0.000445977	aminomethyltransferase (glycine cleavage system protein T).GCE; NKH; GCST.aminomethyltransferase (glycine cleavage system protein T).
+5530	PPP3CA	0.000500724	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha).CALN; CCN1; CNA1; CALNA; PPP2B; CALNA1.protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha).
+25797	QPCT	0.000509798	glutaminyl-peptide cyclotransferase (glutaminyl cyclase).QC; GCT.glutaminyl-peptide cyclotransferase precursor.
+7089	TLE2	0.000510519	transducin-like enhancer of split 2 (E(sp1) homolog, Drosophila).ESG; ESG2.transducin-like enhancer protein 2.
+51382	ATP6V1D	0.00053713	ATPase, H transporting, lysosomal 34kDa, V1 subunit D.VATD; VMA8; ATP6M.ATPase, H transporting, lysosomal 34kD, V1 subunit D.
+2566	GABRG2	0.00066563	gamma-aminobutyric acid (GABA) A receptor, gamma 2.CAE2; ECA2; GEFSP3.gamma-aminobutyric acid A receptor, gamma 2 isoform 3.
+54738		0.000732512	FEV; PET-1.FEV protein.
+9452	ITM2A	0.000822347	integral membrane protein 2A.E25A; BRICD2A.integral membrane protein 2A.
+8284	SMCY	0.000844455	Smcy homolog, Y-linked (mouse).HY; HYA; KIAA0234.Smcy homolog, Y chromosome.
+3925	STMN1	0.000865266	stathmin 1oncoprotein 18.Lag; SMN; OP18; PP17; PP19; PR22; LAP18.stathmin 1.
+1951	CELSR3	0.000901659	cadherin, EGF LAG seven-pass G-type receptor 3 (flamingo homolog, Drosophila).FMI1; EGFL1; HFMI1; MEGF2; CDHF11.cadherin EGF LAG seven-pass G-type receptor 3.
+5567	PRKACB	0.000930355	protein kinase, cAMP-dependent, catalytic, beta..protein kinase, cAMP-dependent, catalytic, beta isoform b.
+5590	PRKCZ	0.0009506	protein kinase C, zeta.PKC2.protein kinase C, zeta.
+482	ATP1B2	0.0010261	ATPase, NaK transporting, beta 2 polypeptide.AMOG.ATPase, NaK transporting, beta 2 polypeptide.
+6782	STCH	0.00103845	stress 70 protein chaperone, microsome-associated, 60kDa..stress 70 protein chaperone, microsome-associated, 60kDa.
+6662	SOX9	0.0010542	SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal).CMD1; SRA1; CMPD1.transcription factor SOX9.
+27245		0.00105746	CL23945..
+58473	PLEKHB1	0.00108447	pleckstrin homology domain containing, family B (evectins) member 1.KPL1; PHR1; PHRET1.pleckstrin homology domain containing, family B (evectins) member 1.PH domain containing protein in retina 1; binds transducin betagamma but not inositol phosphates, may modulate the phototransduction pathway; contains pleckstrin homology domains|Proteome
+869	CBLN1	0.0011264	cerebellin 1 precursor..cerebellin 1 precursor.
+56848	SPHK2	0.00114215	sphingosine kinase 2.MEC; CCK1; Scya28; Mtr1; Ltrpc5; 9430099A16Rik; ESTM671070; XB51; 2900010M17Rik; V1; ALDH6; RALDH3.sphingosine kinase type 2 isoform.
+1910	EDNRB	0.00114457	endothelin receptor type B.ETB; ETRB; HSCR; ABCDS; HSCR2.endothelin receptor type B isoform 2.
+4756	NEO1	0.00117412	neogenin homolog 1 (chicken).NGN.neogenin homolog 1.
+2823	GPM6A	0.00150238	glycoprotein M6A.M6A; GPM6.glycoprotein M6A.
+2719	GPC3	0.00154655	glypican 3.SGB; DGSX; SDYS; SGBS; SGBS1.glypican 3.
+5789	PTPRD	0.00161658	protein tyrosine phosphatase, receptor type, D.HPTP; PTPD; HPTPD; HPTP-DELTA; R-PTP-DELTA.protein tyrosine phosphatase, receptor type, D isoform 4 precursor.
+8549	GPR49	0.00162766	G protein-coupled receptor 49.FEX; HG38; LGR5; GPR67; GRP49.G protein-coupled receptor 49.
+5649	RELN	0.00175228	reelin.RL.reelin isoform b.
+7784	ZP3	0.00182784	zona pellucida glycoprotein 3 (sperm receptor).ZPC; ZP3A; ZP3B; HUMZP3; ZP3-372; ZP3-424.zona pellucida glycoprotein 3 preproprotein.
+2185	PTK2B	0.00191797	PTK2B protein tyrosine kinase 2 beta.PKB; PTK; CAKB; FAK2; PYK2; CADTK; FADK2; RAFTK.PTK2B protein tyrosine kinase 2 beta isoform b.
+51035		0.00192058	unknown protein LOC51035.May act as a ubiquitin regulatory protein; contains a UBX domain and a UBATHIF-type NADFAD binding fold|Proteome
+54861		0.00205446	HSNFRK; FLJ20224; KIAA0096.SNF-1 related kinase.
+23345	SYNE1	0.0021095	spectrin repeat containing, nuclear envelope 1.8B; CPG2; MYNE1; MYNE-1; SYNE-1; SYNE-1B; KIAA0796; KIAA1262; KIAA1756; nesprin-1.nesprin 1 isoform longer.
+51706		0.00219299	B5R.1.cytochrome b5 reductase 1 (B5R.1).
+5362	PLXNA2	0.00224867	plexin A2.OCT; PLXN2; FLJ11751; KIAA0463..
+56255		0.00225595	KIAA1162.hypothetical protein DJ971N18.2.
+5101	PCDH9	0.0022881	protocadherin 9..protocadherin 9 precursor.
+2550	GABBR1	0.00242831	gamma-aminobutyric acid (GABA) B receptor, 1.GPRC3A; GABABR1.gamma-aminobutyric acid (GABA) B receptor 1 isoform d precursor.
+9788	MTSS1	0.00260465	metastasis suppressor 1.MIM; MIMA; MIMB; KIAA0429.metastasis suppressor 1.
+4990	SIX6	0.00268702	sine oculis homeobox homolog 6 (Drosophila).Six9; OPTX2.sine oculis homeobox homolog 6.
+784	CACNB3	0.00322536	calcium channel, voltage-dependent, beta 3 subunit.CACNLB3.calcium channel, voltage-dependent, beta 3 subunit.
+3164	NR4A1	0.00362912	nuclear receptor subfamily 4, group A, member 1.HMR; N10; TR3; NP10; GFRP1; NAK-1; NGFIB; NUR77; MGC9485.nuclear receptor subfamily 4, group A, member 1 isoform b.
+10406	WFDC2	0.00375925	WAP four-disulfide core domain 2.HE4; WAP5; dJ461P17.6.WAP four-disulfide core domain 2 isoform 5.
+8771	TNFRSF6B	0.00381446	tumor necrosis factor receptor superfamily, member 6b, decoy.M68; TR6; DCR3; DJ583P15.1.1.tumor necrosis factor receptor superfamily, member 6b.
+124	ADH1A	0.00400648	alcohol dehydrogenase 1A (class I), alpha polypeptide.ADH1.class I alcohol dehydrogenase, alpha subunit.
+27229	Pla2g7	0.00411322	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma).Ly102; Pclp1; Nesk; U33; U32; U34; U35; U35; Ask; Dbf4; AZ2; OR93; 912-93; Olfr4-3; MOR175-1; Mm1; Mml; Slam; CD150; IPO-3; CDw150; ESTM51; 4933415F16; Sgkl; CAF-1; Cac1p; 53BP1; m53BP1; 110kDa; Tceb3a; 1700055J08Rik; 2510027P10Rik.gamma tubulin ring complex protein (76p gene).
+22932	POMZP3	0.00430845	POM (POM121 homolog, rat) and ZP3 fusion.POM121; MGC8359; POM-ZP3.POMZP3 fusion protein isoform 2.
+636	BICD1	0.00444677	Bicaudal D homolog 1 (Drosophila)..Bicaudal D homolog 1.
+481	ATP1B1	0.00446905	ATPase, NaK transporting, beta 1 polypeptide.ATP1B.ATPase, NaK transporting, beta 1 polypeptide.
+9368	SLC9A3R1	0.00448186	solute carrier family 9 (sodiumhydrogen exchanger), isoform 3 regulatory factor 1.EBP50; NHERF.solute carrier family 9 (sodiumhydrogen exchanger), isoform 3 regulatory factor 1.
+3706	ITPKA	0.00477647	inositol 1,4,5-trisphosphate 3-kinase A..1D-myo-inositol-trisphosphate 3-kinase A.
+9770	RASSF2	0.00526327	Ras association (RalGDSAF-6) domain family 2.KIAA0168.Ras association domain family 2 isoform 2.
+2123	EVI2A	0.00555482	ecotropic viral integration site 2A.EVDA; EVI2.ecotropic viral integration site 2A.
+9922		0.00556947	KIAA0763 gene product.
+23237	ARC	0.00593463	activity-regulated cytoskeleton-associated protein.KIAA0278.activity-regulated cytoskeleton-associated protein.
+5493	PPL	0.00598535	periplakin..periplakin.
+6531	SLC6A3	0.0062763	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3.DAT; DAT1.solute carrier family 6 (neurotransmitter transporter, dopamine), member 3.
+27090	SIAT7D	0.00644542	sialyltransferase 7D ((alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl galactosaminide alpha-2,6-sialyltransferase).SIAT3C; ST6GALNAC4; ST6GALNACIV.sialyltransferase 7D isoform b.
+8324	FZD7	0.00645127	frizzled homolog 7 (Drosophila).FzE3.frizzled 7.
+79921		0.00657185	hypothetical protein FLJ21174.
+3655	ITGA6	0.00658665	integrin, alpha 6.CD49f.integrin alpha chain, alpha 6.
+5676	PSG7	0.00676021	pregnancy specific beta-1-glycoprotein 7..pregnancy specific beta-1-glycoprotein 7.
+388	ARHB	0.00678298	ras homolog gene family, member B.ARH6; RHOB; RHOH6.ras homolog gene family, member B.
+1140	CHRNB1	0.00725779	cholinergic receptor, nicotinic, beta polypeptide 1 (muscle).ACHRB; CHRNB.nicotinic acetylcholine receptor beta subunit precursor.
+53335	BCL11A	0.00750187	B-cell CLLlymphoma 11A (zinc finger protein).2900026I01Rik; 5730435J01Rik; 1110065P14Rik; 76p; MGC28085; 4932441P04Rik; Fubp1; 9530027K12Rik; AA672926; D2Ertd198e; 2810003M17Rik; 5930426I11Rik; 1110053A20Rik; D2Ertd504e; 4930505A13Rik; D1Ertd692e; 4921507O14Rik; 1700025D04Rik; D4S43h; D5H4S43; 4932411A20Rik; 5730576N04Rik; E1; D4S115h; D5H4S115; Doc-1r; 5830466O21Rik; 2810430B18Rik; 1700036B12Rik; MGC7199; 1600027K07Rik; Pibf1; 1700017E21Rik; 4933439E17Rik; 5430429D21Rik; D19Ertd609e; PBK; Topk; 2810434B10Rik; Sapl; D19Bwg1430e; 493052
+5129	PCTK3	0.00787132	PCTAIRE protein kinase 3.PCTAIRE; PCTAIRE3.PCTAIRE protein kinase 3.
+9823		0.00856802	MGC8742; KIAA0512; MGC13343.ALEX2 protein.
+9148	NEURL	0.00947545	neuralized-like (Drosophila).RNF67; h-neu.neuralized-like.
+10084	PQBP1	0.00970366	polyglutamine binding protein 1.SHS; MRX55; NPW38.polyglutamine binding protein 1.Activates transcription and binds to polyglutamine tracts; contains a WW domain|Proteome
+25809	TTLL1	0.00972677	tubulin tyrosine ligase-like family, member 1.C22ORF7; KIAA0173; HS323M22B.tubulin tyrosine ligase-like family, member 1.
+3029	HAGH	0.0101227	hydroxyacylglutathione hydrolase.GLO2; GLXII; HAGH1.hydroxyacyl glutathione hydrolase.
+8722	CTSF	0.0103881	cathepsin F.CATSF.cathepsin F.
+55218	C14orf114	0.0106023	chromosome 14 open reading frame 114.FLJ10738.chromosome 14 open reading frame 114.
+9638	FEZ1	0.011091	fasciculation and elongation protein zeta 1 (zygin I)..zygin 1 isoform 2.
+26011		0.0119584	Doc4; DKFZP564O0423..Highly similar to a region of dimeric transmembrane proteins|Proteome
+6263	RYR3	0.0132461	ryanodine receptor 3..ryanodine receptor 3.
+9662		0.0135016	KIAA0635 gene product.
+622	BDH	0.0135378	3
+23270	TSPYL4	0.0135925	TSPY-like 4.KIAA0721; dJ486I3.2.KIAA0721 protein.
+373	ARFD1	0.0137938	ADP-ribosylation factor domain protein 1, 64kDa.ARD1; RNF46; TRIM23.ADP-ribosylation factor domain protein 1 isoform gamma.
+6285	S100B	0.0138211	S100 calcium binding protein, beta (neural).NEF; S100.S100 calcium-binding protein, beta.
+2901	GRIK5	0.0139852	glutamate receptor, ionotropic, kainate 5.KA2; EAA2.glutamate receptor KA2 precursor.
+114088	TRIM9	0.0144695	tripartite motif-containing 9.RNF91; SPRING; KIAA0282.tripartite motif protein 9 isoform 2.
+3775	KCNK1	0.0145602	potassium channel, subfamily K, member 1.DPK; HOHO; TWIK1; TWIK-1.potassium channel, subfamily K, member 1.
+6812	STXBP1	0.0145881	syntaxin binding protein 1.UNC18; hUNC18; MUNC18-1.syntaxin binding protein 1.Putative homolog of rat vesicular transport protein Stxbp1; may be a syntaxin binding protein|Proteome
+51343		0.0146742	FZR; FZR2; HCDH; HCDH1; KIAA1242.Fzr1 protein.
+10079	ATP9A	0.0147157	ATPase, Class II, type 9A.ATPIIA; KIAA0611..
+3708	ITPR1	0.0148536	inositol 1,4,5-triphosphate receptor, type 1.IP3R; IP3R1; Insp3r1.inositol 1,4,5-triphosphate receptor, type 1.
+54665		0.0151864	hypothetical protein FLJ11220.
+23158		0.0159028	
+4651	MYO10	0.0166803	myosin X.KIAA0799.myosin X.
+1742	DLG4	0.0176483	discs, large homolog 4 (Drosophila).PSD95; SAP90.postsynaptic density protein 95.
+22848	AAK1	0.0184805	AP2 associated kinase 1.KIAA1048.AP2 associated kinase 1.
+10675	CSPG5	0.0186688	chondroitin sulfate proteoglycan 5 (neuroglycan C).NGC.chondroitin sulfate proteoglycan 5 (neuroglycan C).
+6450	SH3BGR	0.0191549	SH3 domain binding glutamic acid-rich protein.SH3GBR; 21-GARP.SH3 domain binding glutamic acid-rich protein.
+6507	SLC1A3	0.0194276	solute carrier family 1 (glial high affinity glutamate transporter), member 3.EAAT1; GLAST; GLAST1.solute carrier family 1 (glial high affinity glutamate transporter), member 3.
+3892	KRTHB6	0.0197216	keratin, hair, basic, 6 (monilethrix).HB6; MNX; hHb6.keratin, hair, basic, 6.
+23522	MYST4	0.0201363	MYST histone acetyltransferase (monocytic leukemia) 4.qkf; MORF; MOZ2; KIAA0383; querkopf.MYST histone acetyltransferase (monocytic leukemia) 4.monocytic leukemia zinc finger protein-related factor, a histone acetyltransferase; may act as both a positive and negative regulator of transcription|Proteome
+274	BIN1	0.0202518	bridging integrator 1.AMPH2; AMPHL; SH3P9; MGC10367; DKFZp547F068.bridging integrator 1 isoform 9.
+23305	FACL6	0.0203906	fatty-acid-Coenzyme A ligase, long-chain 6.ACS2; LACS2; LACS5; KIAA0837.fatty-acid-Coenzyme A ligase, long-chain 6.
+23760	PITPNB	0.0213737	phosphotidylinositol transfer protein, beta.VIB1B.phosphotidylinositol transfer protein, beta.
+9762		0.0224277	KIAA0552.ProSAPiP1 protein.
+10570	DPYSL4	0.0224359	dihydropyrimidinase-like 4.CRMP3; DRP-4; ULIP4.dihydropyrimidinase-like 4.
+11170		0.0227089	DRR1.downregulated in renal cell carcinoma.
+3988	LIPA	0.0229041	lipase A, lysosomal acid, cholesterol esterase (Wolman disease).LAL; CESD.lipase A precursor.
+27289		0.0239808	RND1.GTP-binding protein RHO6.
+7058	THBS2	0.0243983	thrombospondin 2.TSP2.thrombospondin 2 precursor.
+26471		0.0249251	COM1.p8 protein (candidate of metastasis 1).
+220	ALDH1A3	0.0250452	aldehyde dehydrogenase 1 family, member A3.ALDH6; RALDH3; ALDH1A6.aldehyde dehydrogenase 1A3.
+9230	RAB11B	0.0252706	RAB11B, member RAS oncogene family.H-YPT3.RAB11B, member RAS oncogene family.
+390	ARHE	0.0254413	ras homolog gene family, member E.RHOE; RND3.ras homolog gene family, member E.
+284	ANGPT1	0.0257888	angiopoietin 1.AGP1; AGPT; ANG1; KIAA0003.angiopoietin 1 isoform b.
+5730	PTGDS	0.0259669	prostaglandin D2 synthase 21kDa (brain).PDS; PGD2; PGDS; PGDS2.prostaglandin D2 synthase 21kDa.
+6773	STAT2	0.0261335	signal transducer and activator of transcription 2, 113kDa.P113; ISGF-3; STAT113; MGC59816.signal transducer and activator of transcription 2.
+9028	RHBDL1	0.027598	rhomboid, veinlet-like 1 (Drosophila).RRP; RHBDL.rhomboid, veinlet-like 1.
+41	ACCN2	0.0278225	amiloride-sensitive cation channel 2, neuronal.ASIC; BNaC2; ASIC1A.amiloride-sensitive cation channel 2, neuronal isoform b.
+10057	ABCC5	0.0288272	ATP-binding cassette, sub-family C (CFTRMRP), member 5.MRP5; SMRP; ABC33; MOATC; MOAT-C; pABC11; EST277145.ATP-binding cassette, sub-family C, member 5.
+10659	CUGBP2	0.0292428	CUG triplet repeat, RNA binding protein 2.Etr-3; NAPOR; BRUNOL3; NAPOR-2.CUG triplet repeat, RNA binding protein 2.
+6457	SH3GL3	0.0297631	SH3-domain GRB2-like 3.CNSA3; EEN-B2; SH3D2C; SH3P13.SH3-domain GRB2-like 3.
+89927		0.0306228	hypothetical gene BC008967.
+6324	SCN1B	0.0308759	sodium channel, voltage-gated, type I, beta.GEFSP1.sodium channel, voltage-gated, type I, beta isoform b.
+64405	CDH22	0.030944	cadherin-like 22.C20orf25; dJ998H6.1.cadherin 22 precursor.
+1855	DVL1	0.0324129	dishevelled, dsh homolog 1 (Drosophila).DVL; MGC54245.dishevelled 1 isoform b.
+6515	SLC2A3	0.0331189	solute carrier family 2 (facilitated glucose transporter), member 3.GLUT3.solute carrier family 2 (facilitated glucose transporter), member 3.
+1847	DUSP5	0.0336825	dual specificity phosphatase 5.HVH3.dual specificity phosphatase 5.
+9781	RNF144	0.0338098	ring finger protein 144.KIAA0161; UBCE7IP4.ring finger protein 144.
+5579	PRKCB1	0.034765	protein kinase C, beta 1.PKCB; PRKCB; PRKCB2.protein kinase C, beta 1.
+25800	SLC39A6	0.0357695	solute carrier family 39 (zinc transporter), member 6.LIV-1.solute carrier family 39 (zinc transporter), member 6.
+1325	CORT	0.0362029	cortistatin.CST-14; CST-17; CST-29; MGC32686.cortistatin isoform b preproprotein.
+3628	INPP1	0.03643	inositol polyphosphate-1-phosphatase..inositol polyphosphate-1-phosphatase.
+23321	TRIM2	0.036877	tripartite motif-containing 2.RNF86; KIAA0517.tripartite motif-containing 2.
+9215	LARGE	0.0376391	like-glycosyltransferase.KIAA0609.like-glycosyltransferase.
+8404	SPARCL1	0.0377583	SPARC-like 1 (mast9, hevin).SC1; HEVIN; MAST9.SPARC-like 1.
+7321	UBE2D1	0.0378896	ubiquitin-conjugating enzyme E2D 1 (UBC45 homolog, yeast).UBCH5; UBC45; UBCH5A; E2(17)KB1.ubiquitin-conjugating enzyme E2D 1.
+1955	EGFL5	0.0395079	EGF-like-domain, multiple 5.MEGF9..
+7545	ZIC1	0.0396329	Zic family member 1 (odd-paired homolog, Drosophila).ZIC; ZNF201.zinc finger protein of the cerebellum 1.
+4128	MAOA	0.0399856	monoamine oxidase A..monoamine oxidase A.
+8543	LMO4	0.0418625	LIM domain only 4..LIM domain only 4.
+11127	KIF3A	0.0420895	kinesin family member 3A..kinesin family member 3A.
+8659	ALDH4A1	0.0426881	aldehyde dehydrogenase 4 family, member A1.P5CD; ALDH4; P5CDH; P5CDh; P5CDhL; P5CDhS.aldehyde dehydrogenase 4A1 precursor.
+1009	CDH11	0.0428354	cadherin 11, type 2, OB-cadherin (osteoblast).OB; CAD11; CDHOB; OSF-4.cadherin 11, type 2 isoform 2 preproprotein.
+3983	ABLIM1	0.0437101	actin binding LIM protein 1.abLIM; LIMAB1; LIMATIN; KIAA0059.actin-binding LIM protein 1 isoform s.
+4802	NFYC	0.0448327	nuclear transcription factor Y, gamma.HSM; CBFC; HAP5; CBF-C; NF-YC; H1TF2A.nuclear transcription factor Y, gamma.
+23476	BRD4	0.045617	bromodomain containing 4.CAP; MCAP; HUNKI.bromodomain-containing protein 4 isoform short.
+25849		0.0457616	DKFZP564O0823 protein.Highly similar to rat Castration Induced Prostatic Apoptosis Related protein-1|Proteome
+3761	KCNJ4	0.0460076	potassium inwardly-rectifying channel, subfamily J, member 4.HIR; HRK1; HIRK2; Kir2.3.potassium inwardly-rectifying channel J4.
+4675	NAP1L3	0.0462438	nucleosome assembly protein 1-like 3.MB20; NPL3.nucleosome assembly protein 1-like 3.
+66036	MTMR9	0.0489419	myotubularin related protein 9.MTMR8; C8orf9; LIP-STYX; DKFZp434K171.myotubularin-related protein 9.
+9911		0.0489489	KIAA0481.cerebral protein 11.
